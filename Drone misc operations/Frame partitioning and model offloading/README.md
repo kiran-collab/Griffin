@@ -6,6 +6,6 @@ To test frame partitioning separately,
 pip install -r requirements.txt
 ```
 ```
-python3 frame_partition_combined.py
+python3 yolo_combined_partition.py
 ```
 
