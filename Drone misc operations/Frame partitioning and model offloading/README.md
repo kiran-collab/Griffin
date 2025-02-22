@@ -1,4 +1,4 @@
-To test frame partitioning separately,
+To implement frame partitioning separately,
 1. Unzip yolov5.zip
 2. Run
 
