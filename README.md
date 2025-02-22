@@ -1,4 +1,4 @@
-# 🚗 🚡 Griffin: Middleware framework for Road Event Detection using UAV and Ground Vehicle
+# 🚗 🚡 Griffin
 
 This is the official implementation for our paper titled "_Griffin: Real-time Road Event Detection by Collaborative UAV and Ground Vehicle_" (Paper Under revisions) [[Paper]](https://drive.google.com/file/d/1uCIxh5hbrb4kFi26-uINK4sL9AW1DUMA/view?usp=drive_link)
 
